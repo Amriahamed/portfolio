@@ -431,6 +431,10 @@ header {
     transition: transform 0.3s ease;
 }
 
+.skill-tags span i.fas {
+    color: #672674;
+}
+
 .skill-tags span:hover {
     background: rgba(99, 102, 241, 0.15);
     color: var(--text-main);
